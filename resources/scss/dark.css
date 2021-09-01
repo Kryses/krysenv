@@ -1,0 +1,11 @@
+QWidget {
+  background: #252525;
+  color: white; }
+
+QMainWindow {
+  background: #252525;
+  color: white; }
+
+#side_panel {
+  background: black;
+  color: white; }
