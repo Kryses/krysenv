@@ -1,0 +1,7 @@
+bleeding-rez==2.40.5
+libsass==0.21.0
+PySide2==5.15.2
+PyYAML==5.4.1
+qtsass==0.3.0
+shiboken2==5.15.2
+six==1.16.0
